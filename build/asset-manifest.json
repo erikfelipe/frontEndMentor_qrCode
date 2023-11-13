@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/frontEndMentor_qrCode/public/static/css/main.a93060d5.css",
+    "main.js": "/frontEndMentor_qrCode/public/static/js/main.33864ef7.js",
+    "index.html": "/frontEndMentor_qrCode/public/index.html",
+    "main.a93060d5.css.map": "/frontEndMentor_qrCode/public/static/css/main.a93060d5.css.map",
+    "main.33864ef7.js.map": "/frontEndMentor_qrCode/public/static/js/main.33864ef7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a93060d5.css",
+    "static/js/main.33864ef7.js"
+  ]
+}
