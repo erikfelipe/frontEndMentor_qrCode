@@ -1,0 +1,35 @@
+.qrcode_bg-color {
+  background-color: #d6e1f0;
+}
+.qrcode_h2fontcolor {
+  color: #a2a9b4;
+}
+
+.font_Outfit-Black {
+  font-family: "Outfit-Black", sans-serif;
+}
+.font_Outfit-Bold {
+  font-family: "Outfit-Bold", sans-serif;
+  font-weight: 700;
+}
+.font_Outfit-XBold {
+  font-family: "Outfit-ExtraBold", sans-serif;
+}
+.font_Outfit-XLight {
+  font-family: "Outfit-ExtraLight", sans-serif;
+}
+.font_Outfit-Light {
+  font-family: "Outfit-Light", sans-serif;
+}
+.font_Outfit-Medium {
+  font-family: "Outfit-Medium", sans-serif;
+}
+.font_Outfit-Regular {
+  font-family: "Outfit-Regular", sans-serif;
+}
+.font_Outfit-Semibold {
+  font-family: "Outfit-SemiBold", sans-serif;
+}
+.font_Outfit-Thin {
+  font-family: "Outfit-Thin", sans-serif;
+}
